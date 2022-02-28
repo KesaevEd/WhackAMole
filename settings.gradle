@@ -1,0 +1,2 @@
+rootProject.name = "Mole In Hole"
+include ':app'
